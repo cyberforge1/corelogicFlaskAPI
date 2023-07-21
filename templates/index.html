@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flask RESTful API - CoreLogic Property Information</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-MzO1Tu3Rd7lrq7mS4u+qM4qhsFLzjzghn6pxSZK7NsnlejDJ2nmNIaMxkZxOD3pt"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="text-center">
+        <h1>Welcome to a CoreLogic Flask RESTful API</h1>
+        <p>
+          This application retrieves property-specific information from
+          CoreLogic.
+        </p>
+
+        <form method="POST">
+          <label for="unitNumber">unitNumber</label>
+          <input
+            type="text"
+            id="unitNumber"
+            name="unitNumber"
+            required
+          /><br /><br />
+          <label for="streetNumber">streetNumber</label>
+          <input
+            type="text"
+            id="streetNumber"
+            name="streetNumber"
+            required
+          /><br /><br />
+          <label for="streetName">streetName</label>
+          <input
+            type="text"
+            id="streetName"
+            name="streetName"
+            required
+          /><br /><br />
+          <label for="streetType">streetType</label>
+          <input
+            type="text"
+            id="streetType"
+            name="streetType"
+            required
+          /><br /><br />
+          <label for="suburb">suburb</label>
+          <input type="text" id="suburb" name="suburb" required /><br /><br />
+          <label for="stateCode">stateCode</label>
+          <input
+            type="text"
+            id="stateCode"
+            name="stateCode"
+            required
+          /><br /><br />
+          <label for="postCode">postCode</label>
+          <input
+            type="text"
+            id="postCode"
+            name="postCode"
+            required
+          /><br /><br />
+          <input type="submit" value="Submit" />
+        </form>
+
+        <h2>Retrieve Property ID:</h2>
+        <p>
+          Before making calls to the <code>/property-details</code>,
+          <code>/property-timeline</code>, or
+          <code>/rental-avm</code> endpoints, you need to retrieve the
+          <code>property_id</code> from the <code>/address-match</code> route.
+          Follow the steps below:
+        </p>
+        <ol>
+          <li>
+            Make a GET request to <code>/address-match</code> with the desired
+            address.
+          </li>
+          <li>
+            Retrieve the response, which includes the <code>property_id</code>.
+          </li>
+          <li>Store the <code>property_id</code> for further use.</li>
+        </ol>
+        <p>
+          Once you have obtained the <code>property_id</code>, you can use it to
+          make calls to the following endpoints:
+        </p>
+        <ul>
+          <li>
+            <a
+              href="/property-details/{property_id}"
+              class="text-decoration-none"
+              >GET /property-details/{property_id}</a
+            >: Retrieves detailed information for the property identified by
+            <code>{property_id}</code>.
+          </li>
+          <li>
+            <a
+              href="/property-timeline/{property_id}"
+              class="text-decoration-none"
+              >GET /property-timeline/{property_id}</a
+            >: Retrieves the timeline of events for the property identified by
+            <code>{property_id}</code>.
+          </li>
+          <li>
+            <a href="/rental-avm/{property_id}" class="text-decoration-none"
+              >GET /rental-avm/{property_id}</a
+            >: Retrieves the estimated rental value (AVM) for the property
+            identified by <code>{property_id}</code>.
+          </li>
+        </ul>
+
+        <h2>Usage:</h2>
+        <p>
+          To retrieve property information, send a GET request to the desired
+          endpoint using a tool like Postman or cURL.
+        </p>
+        <p>For example:</p>
+        <ul>
+          <li>
+            Provide an address below to investigate specifics about a property
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    {% with messages = get_flashed_messages(with_categories=true) %} {% if
+    messages %}
+    <div class="flash-messages">
+      {% for category, message in messages %}
+      <div class="flash-message-{{ category }}">{{ message }}</div>
+      {% endfor %}
+    </div>
+    {% endif %} {% endwith %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $("#unitNumber").on("input", function () {
+          if ($(this).val().trim() !== "") {
+            $("#streetNumber").prop("disabled", true);
+          } else {
+            $("#streetNumber").prop("disabled", false);
+          }
+        });
+
+        $("#streetNumber").on("input", function () {
+          if ($(this).val().trim() !== "") {
+            $("#unitNumber").prop("disabled", true);
+          } else {
+            $("#unitNumber").prop("disabled", false);
+          }
+        });
+      });
+    </script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-3f+82DmD8QZxhScfzhgjVWVZg5Ic5aJpwjUk1bgn4zI7Xs4H3VB/cIhIP0+Qcg+F"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
