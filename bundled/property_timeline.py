@@ -2,7 +2,7 @@ import requests
 from flask import Flask, jsonify
 from flask_restful import Api, Resource
 
-from query import property_id
+from current_query import property_id
 
 
 

@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect, flash, jsonify
 from flask_restful import Api, Resource
 import requests
 
-from query import address
+from current_query import address
 
 
 # Environmental variables import 

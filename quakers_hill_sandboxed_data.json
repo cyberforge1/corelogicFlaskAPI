@@ -1,0 +1,809 @@
+{
+  "_embedded": {
+    "propertySummaryList": [
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "7 Aden Street Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 556
+          },
+          "coordinate": {
+            "latitude": -33.72696673,
+            "longitude": 150.90448604
+          },
+          "id": 38873114,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 191711
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/MLLYCXLS54I6PFJGEPJOWATRBE/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/MLLYCXLS54I6PFJGEPJOWATRBE/resize;m=exact;w=470;h=313",
+            "scanDate": "2017-07-27",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/MLLYCXLS54I6PFJGEPJOWATRBE/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: One Storey / Lowset",
+          "propertySubTypeShort": "One Storey / Lowset",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "1/2 Aimee Street Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 1,
+            "bedrooms": 3,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 378,
+            "lockUpGarages": 1
+          },
+          "coordinate": {
+            "latitude": -33.720117,
+            "longitude": 150.8983244
+          },
+          "id": 43086194,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185291
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/ENZ2OY56S4I6NA6DEODP3MCWNY/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/ENZ2OY56S4I6NA6DEODP3MCWNY/resize;m=exact;w=470;h=313",
+            "scanDate": "2014-07-18",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/ENZ2OY56S4I6NA6DEODP3MCWNY/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: Semi Detached",
+          "propertySubTypeShort": "Semi Detached",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "2/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 211
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 17189049,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/EIJBYPD2HQI6VA5GLX53VHMSWY/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/EIJBYPD2HQI6VA5GLX53VHMSWY/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-04-09",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/EIJBYPD2HQI6VA5GLX53VHMSWY/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": true,
+            "recentSale": false
+          },
+          "propertySubType": "Unit: Townhouse/Villa",
+          "propertySubTypeShort": "Townhouse/Villa",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "3/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 208,
+            "lockUpGarages": 1
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 17189050,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/RQJ6DS6W7II6NA5BSXN62R55JI/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/RQJ6DS6W7II6NA5BSXN62R55JI/resize;m=exact;w=470;h=313",
+            "scanDate": "2016-10-04",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/RQJ6DS6W7II6NA5BSXN62R55JI/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Unit",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "5/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 253,
+            "lockUpGarages": 1
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 17189052,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/ODHFNTPKKEI6NF3HDO3PJDOT6I/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/ODHFNTPKKEI6NF3HDO3PJDOT6I/resize;m=exact;w=470;h=313",
+            "scanDate": "2017-01-19",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/ODHFNTPKKEI6NF3HDO3PJDOT6I/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Unit",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "6/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 245,
+            "lockUpGarages": 1
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 17019882,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/QGCF2555D4I6NPJAZ7RGT4JKUM/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/QGCF2555D4I6NPJAZ7RGT4JKUM/resize;m=exact;w=470;h=313",
+            "scanDate": "2014-10-30",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/QGCF2555D4I6NPJAZ7RGT4JKUM/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Unit",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "7/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 254,
+            "lockUpGarages": 1
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 17189053,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/VOMN5MX5DII6TMQLDPMXQBF564/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/VOMN5MX5DII6TMQLDPMXQBF564/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-02-25",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/VOMN5MX5DII6TMQLDPMXQBF564/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Unit",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "9/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 209,
+            "lockUpGarages": 2
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 16859521,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/EP4CAJ56KUI6NM3XKXBNFI3OJI/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/EP4CAJ56KUI6NM3XKXBNFI3OJI/resize;m=exact;w=470;h=313",
+            "scanDate": "2014-03-10",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/EP4CAJ56KUI6NM3XKXBNFI3OJI/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Unit",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "11/21 Alamar Crescent Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 240,
+            "lockUpGarages": 2
+          },
+          "coordinate": {
+            "latitude": -33.73375029,
+            "longitude": 150.90628
+          },
+          "id": 17189055,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185431
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/72JCBWF5VUI6NK5XTWLFGCOTRU/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/72JCBWF5VUI6NK5XTWLFGCOTRU/resize;m=exact;w=470;h=313",
+            "scanDate": "2015-12-18",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/72JCBWF5VUI6NK5XTWLFGCOTRU/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Unit",
+          "propertyType": "UNIT"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "LOT 13 Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "carSpaces": 1,
+            "isCalculatedLandArea": true,
+            "landArea": 0
+          },
+          "id": 48794023,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/LVZR3LX6ZQI6VKESGFHMF726VM/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/LVZR3LX6ZQI6VKESGFHMF726VM/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-09-25",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/LVZR3LX6ZQI6VKESGFHMF726VM/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": true,
+            "recentSale": false
+          },
+          "propertySubType": "Land: Res Development",
+          "propertySubTypeShort": "Res Development",
+          "propertyType": "LAND"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "LOT 15 Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": true,
+            "landArea": 0
+          },
+          "id": 48794097,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/SEYHII76Y4I6VF75HEWMFYANAM/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/SEYHII76Y4I6VF75HEWMFYANAM/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-09-25",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/SEYHII76Y4I6VF75HEWMFYANAM/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": true,
+            "recentSale": false
+          },
+          "propertySubType": "Land: Res Development",
+          "propertySubTypeShort": "Res Development",
+          "propertyType": "LAND"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "2B Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 390
+          },
+          "id": 44063741,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/3YRZDOYEUEI6VKZBBPJVUGM4FA/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/3YRZDOYEUEI6VKZBBPJVUGM4FA/resize;m=exact;w=470;h=313",
+            "scanDate": "2019-11-11",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/3YRZDOYEUEI6VKZBBPJVUGM4FA/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "Land: Res Development",
+          "propertySubTypeShort": "Res Development",
+          "propertyType": "LAND"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "7A Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 390,
+            "lockUpGarages": 1
+          },
+          "id": 43034403,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/6QRN7GWVYEI6PP66UG3A3RJIXQ/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/6QRN7GWVYEI6PP66UG3A3RJIXQ/resize;m=exact;w=470;h=313",
+            "scanDate": "2017-11-30",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/6QRN7GWVYEI6PP66UG3A3RJIXQ/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: One Storey / Lowset",
+          "propertySubTypeShort": "One Storey / Lowset",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "10 Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 390
+          },
+          "coordinate": {
+            "latitude": -33.71186376,
+            "longitude": 150.88066727
+          },
+          "id": 17925319,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/2QRVZBMTZ4I6PPOGYWVFPLFTVM/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/2QRVZBMTZ4I6PPOGYWVFPLFTVM/resize;m=exact;w=470;h=313",
+            "scanDate": "2017-09-07",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/2QRVZBMTZ4I6PPOGYWVFPLFTVM/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: One Storey / Lowset",
+          "propertySubTypeShort": "One Storey / Lowset",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "15A Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 250
+          },
+          "coordinate": {
+            "latitude": -33.71218146,
+            "longitude": 150.88091765
+          },
+          "id": 45093335,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/MI5B6IHBF4I6VHKETMDXQRQJ7Q/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/MI5B6IHBF4I6VHKETMDXQRQJ7Q/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-08-19",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/MI5B6IHBF4I6VHKETMDXQRQJ7Q/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: One Storey / Lowset",
+          "propertySubTypeShort": "One Storey / Lowset",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "15B Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 390,
+            "lockUpGarages": 1
+          },
+          "coordinate": {
+            "latitude": -33.71223955,
+            "longitude": 150.88082256
+          },
+          "id": 45093336,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/NZW4FMGLCUI6VDLKLHFTYUJUBM/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/NZW4FMGLCUI6VDLKLHFTYUJUBM/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-07-21",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/NZW4FMGLCUI6VDLKLHFTYUJUBM/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": true,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: One Storey / Lowset",
+          "propertySubTypeShort": "One Storey / Lowset",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "17A Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 3,
+            "bedrooms": 4,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 602,
+            "lockUpGarages": 1
+          },
+          "id": 45093872,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/BR7I2GVV3UI6RJC6VPBCOFGIOQ/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/BR7I2GVV3UI6RJC6VPBCOFGIOQ/resize;m=exact;w=470;h=313",
+            "scanDate": "2018-09-11",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/BR7I2GVV3UI6RJC6VPBCOFGIOQ/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "17B Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 3,
+            "bedrooms": 4,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 250
+          },
+          "coordinate": {
+            "latitude": -33.71227494,
+            "longitude": 150.880639
+          },
+          "id": 45699533,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/EWP2FBV5WEI6RDHEPWVZHAU2GE/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/EWP2FBV5WEI6RDHEPWVZHAU2GE/resize;m=exact;w=470;h=313",
+            "scanDate": "2018-09-21",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/EWP2FBV5WEI6RDHEPWVZHAU2GE/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House",
+          "propertyType": "HOUSE"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "27A Alana Avenue Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 1,
+            "isCalculatedLandArea": false,
+            "landArea": 500
+          },
+          "coordinate": {
+            "latitude": -33.71245605,
+            "longitude": 150.88009875
+          },
+          "id": 17923655,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185457
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/SEYHII76Y4I6VF75HEWMFYANAM/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/SEYHII76Y4I6VF75HEWMFYANAM/resize;m=exact;w=470;h=313",
+            "scanDate": "2020-09-25",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/SEYHII76Y4I6VF75HEWMFYANAM/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": true,
+            "recentSale": false
+          },
+          "propertySubType": "Land: Res Development",
+          "propertySubTypeShort": "Res Development",
+          "propertyType": "LAND"
+        }
+      },
+      {
+        "propertySummary": {
+          "address": {
+            "singleLineAddress": "28 Aleppo Street Quakers Hill NSW 2763"
+          },
+          "attributes": {
+            "bathrooms": 2,
+            "bedrooms": 4,
+            "carSpaces": 2,
+            "isCalculatedLandArea": false,
+            "landArea": 465,
+            "lockUpGarages": 2
+          },
+          "coordinate": {
+            "latitude": -33.72765029,
+            "longitude": 150.90844122
+          },
+          "id": 14467301,
+          "isActiveProperty": true,
+          "locationIdentifiers": {
+            "councilAreaId": 13,
+            "localityId": 11770,
+            "postCodeId": 102408,
+            "streetId": 185852
+          },
+          "propertyPhoto": {
+            "largePhotoUrl": "https://das-web.corelogic.asia/v1/asset/D3BOE2V6TUI6NFXMI6EC2YUYX4/resize;m=exact;w=768;h=512",
+            "mediumPhotoUrl": "https://das-web.corelogic.asia/v1/asset/D3BOE2V6TUI6NFXMI6EC2YUYX4/resize;m=exact;w=470;h=313",
+            "scanDate": "2015-10-29",
+            "thumbnailPhotoUrl": "https://das-web.corelogic.asia/v1/asset/D3BOE2V6TUI6NFXMI6EC2YUYX4/resize;m=exact;w=120;h=80"
+          },
+          "propertyStatus": {
+            "otmForRent": false,
+            "otmForSale": false,
+            "recentSale": false
+          },
+          "propertySubType": "House: One Storey / Lowset",
+          "propertySubTypeShort": "One Storey / Lowset",
+          "propertyType": "HOUSE"
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "http://search-sandbox-api.amp.corelogic.asia/search/au/property/locality/11770?page=0&size=20&sort=address,asc"
+    },
+    "self": {
+      "href": "http://search-sandbox-api.amp.corelogic.asia/search/au/property/locality/11770"
+    },
+    "next": {
+      "href": "http://search-sandbox-api.amp.corelogic.asia/search/au/property/locality/11770?page=1&size=20&sort=address,asc"
+    },
+    "last": {
+      "href": "http://search-sandbox-api.amp.corelogic.asia/search/au/property/locality/11770?page=49&size=20&sort=address,asc"
+    }
+  },
+  "page": {
+    "number": 0,
+    "size": 20,
+    "totalElements": 981,
+    "totalPages": 50
+  }
+}
