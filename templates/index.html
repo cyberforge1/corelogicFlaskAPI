@@ -14,57 +14,9 @@
       <div class="text-center">
         <h1>Welcome to a CoreLogic Flask RESTful API</h1>
         <p>
-          This application retrieves property-specific information from
-          CoreLogic.
+          This application retrieves property-specific information for Quakers
+          Hill, 2763 using a sandboxed data environment and CoreLogic APIs
         </p>
-
-        <form method="POST">
-          <label for="unitNumber">unitNumber</label>
-          <input
-            type="text"
-            id="unitNumber"
-            name="unitNumber"
-            required
-          /><br /><br />
-          <label for="streetNumber">streetNumber</label>
-          <input
-            type="text"
-            id="streetNumber"
-            name="streetNumber"
-            required
-          /><br /><br />
-          <label for="streetName">streetName</label>
-          <input
-            type="text"
-            id="streetName"
-            name="streetName"
-            required
-          /><br /><br />
-          <label for="streetType">streetType</label>
-          <input
-            type="text"
-            id="streetType"
-            name="streetType"
-            required
-          /><br /><br />
-          <label for="suburb">suburb</label>
-          <input type="text" id="suburb" name="suburb" required /><br /><br />
-          <label for="stateCode">stateCode</label>
-          <input
-            type="text"
-            id="stateCode"
-            name="stateCode"
-            required
-          /><br /><br />
-          <label for="postCode">postCode</label>
-          <input
-            type="text"
-            id="postCode"
-            name="postCode"
-            required
-          /><br /><br />
-          <input type="submit" value="Submit" />
-        </form>
 
         <h2>Retrieve Property ID:</h2>
         <p>
@@ -83,6 +35,10 @@
             Retrieve the response, which includes the <code>property_id</code>.
           </li>
           <li>Store the <code>property_id</code> for further use.</li>
+          <li>
+            Information such as property_id and other details can be found in
+            the quakers_hill_sandboxed_data.json for specific properties
+          </li>
         </ol>
         <p>
           Once you have obtained the <code>property_id</code>, you can use it to
@@ -118,12 +74,6 @@
           To retrieve property information, send a GET request to the desired
           endpoint using a tool like Postman or cURL.
         </p>
-        <p>For example:</p>
-        <ul>
-          <li>
-            Provide an address below to investigate specifics about a property
-          </li>
-        </ul>
       </div>
     </div>
 

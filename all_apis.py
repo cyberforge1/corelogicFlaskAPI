@@ -8,12 +8,15 @@ from current_query import address
 # Environmental variables import 
 import os
 from dotenv import load_dotenv
+
 load_dotenv()
 
 
 app = Flask(__name__)
 api = Api(app)
-app.secret_key = '19866e693e68503b3654899d128654269369aa898'
+project_key = os.getenv("SECRET_KEY")
+
+app.secret_key = project_key
 
 
 api_key = os.environ["api_key"]
